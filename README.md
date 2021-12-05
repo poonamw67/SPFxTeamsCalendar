@@ -46,7 +46,7 @@ Version|Date|Comments
 - Ensure that you are at the solution folder
 - in the command-line run:
   - **npm install**
-  - **gulp serve**
+  - **gulp serve*****
 
 > Include any additional steps as needed.
 
